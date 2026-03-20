@@ -10,14 +10,14 @@ Interact through a simple UI
 
 🛠️ Tech Stack
 
-Python 🐍
+Python 
 
-Streamlit 🌐
+Streamlit 
 
 
-Scikit-learn 🤖
+Scikit-learn 
 
-Pandas & NumPy 📊
+Pandas & NumPy 
 
 Pickle (for model saving)
 
